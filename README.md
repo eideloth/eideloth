@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning new skills in data engineering at @neuefische 
+- 🌱 I’m currently learning new skills in data engineering at [Neue Fische](https://github.com/neuefische)
 - 💬 Ask me about Frontend Development, nodejs, nextjs, reactjs, AEM
 
 
