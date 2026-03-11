@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning new skills in data engineering at @neuefische 
+- 💬 Ask me about Frontend Development, nodejs, nextjs, reactjs, AEM
+
+
+
 <!--
 **eideloth/eideloth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
